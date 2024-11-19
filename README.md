@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @NingSun-pixel
-  
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
-  
+- 🌱 I’m currently learning Augusted Virtual Reality in Trinity College Dublin  
 - 📫 How to reach me:
   Email me by ysun4@tcd.ie
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+
 
 <!---
 NingSun-pixel/NingSun-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
