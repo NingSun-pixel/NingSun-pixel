@@ -16,7 +16,7 @@
 
 ## 📫 How to Reach Me  
 - ✉️ Email: **ysun4@tcd.ie**  
-- 💼 LinkedIn: [Add your LinkedIn link here]  
+- 💼 LinkedIn: [[Add your LinkedIn link here](https://www.linkedin.com/in/yuning-sun-830636327/)]  
 - 📺  Demo Videos: [My YouTube Channel](https://www.youtube.com/@yulinsun8895)  
 
 
